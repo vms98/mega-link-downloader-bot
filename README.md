@@ -75,7 +75,7 @@ apt install meson
 sudo apt-get install libtool libglib2.0-dev gobject-introspection libgmp3-dev nettle-dev asciidoc glib-networking openssl libcurl4-openssl-dev libssl-dev
 ```
 ```sh  
-git clone https://github.com/XMYSTERlOUSX/megatools
+git clone https://github.com/vms98/megatools
 ```
 ```sh  
 cd megatools
